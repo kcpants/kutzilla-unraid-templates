@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <Container version="2">
   <Name>unbound</Name>
-  <Repository>kutzilla/unbound:latest</Repository>
+  <Repository>mvance/unbound:latest</Repository>
   <Registry>https://hub.docker.com/r/kutzilla/unbound</Registry>
   <Network>bridge</Network>
   <MyIP/>
